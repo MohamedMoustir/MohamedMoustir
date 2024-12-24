@@ -32,6 +32,5 @@
 - Écriture d'articles techniques sur [Medium](https://medium.com/@mohamedmoustir).
 ![Graphique d'activité](https://github-readme-activity-graph.cyclic.app/graph?username=TON_NOM_UTILISATEUR&theme=react-dark)
 
-![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohamedMoustir&show_icons=true&theme=radical)
 
 
