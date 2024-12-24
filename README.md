@@ -1,8 +1,8 @@
-# Bonjour 👋, Je suis [MohamedMoustir](mailto:miryassine123@gmail.com)
+# Bonjour 👋, Je suis [MOHAMEDMOUSTIR]
 
 ## 🌐 Connectez-vous avec moi :
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/username)
-[![LinkedIn](www.linkedin.com/in/itsmoustir-moustir)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/username)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/username)
 
 ## 🚀 Compétences et outils :
@@ -17,10 +17,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yassineelmiri&layout=compact&theme=radical)
 
 ## 🔥 Activité récente :
-[![GitHub Streak[](https://streak-stats.demolab.com?user=yassineelmiri&theme=radical)](https://git.io/streak-stats](https://github.com/MohamedMoustir?tab=repositories))
+[![GitHub Streak](https://streak-stats.demolab.com?user=yassineelmiri&theme=radical)](https://git.io/streak-stats)
 
 ---
 
-
-
-
+⭐️ Créé par [Yassine Elmiri](https://github.com/yassineelmiri)
