@@ -20,5 +20,15 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=yassineelmiri&theme=radical)](https://git.io/streak-stats)
 
 ---
+## 📊 Mes statistiques GitHub :
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TON_NOM_UTILISATEUR&show_icons=true&theme=radical)
+![Langues principales](https://github-readme-stats.vercel.app/api/top-langs/?username=TON_NOM_UTILISATEUR&layout=compact&theme=radical)
 
-⭐️ Créé par [Yassine Elmiri](https://github.com/yassineelmiri)
+## 🔥 Mon activité récente :
+[![GitHub Streak](https://streak-stats.demolab.com?user=TON_NOM_UTILISATEUR&theme=radical)](https://git.io/streak-stats)
+## 🌱 Ce sur quoi je travaille :
+- Un site de gestion des réservations de consultations juridiques.
+- Développement d'une application avec **React.js** et **Node.js**.
+- Écriture d'articles techniques sur [Medium](https://medium.com/@username).
+![Graphique d'activité](https://github-readme-activity-graph.cyclic.app/graph?username=TON_NOM_UTILISATEUR&theme=react-dark)
+
