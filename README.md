@@ -24,13 +24,8 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TON_NOM_UTILISATEUR&show_icons=true&theme=radical)
 ![Langues principales](https://github-readme-stats.vercel.app/api/top-langs/?username=TON_NOM_UTILISATEUR&layout=compact&theme=radical)
 
-## 🔥 Mon activité récente :
-[![GitHub Streak](https://streak-stats.demolab.com?user=TON_NOM_UTILISATEUR&theme=radical)](https://git.io/streak-stats)
-## 🌱 Ce sur quoi je travaille :
-- Un site de gestion des réservations de consultations juridiques.
-- Développement d'une application avec **React.js** et **Node.js**.
-- Écriture d'articles techniques sur [Medium](https://medium.com/@mohamedmoustir).
-![Graphique d'activité](https://github-readme-activity-graph.cyclic.app/graph?username=TON_NOM_UTILISATEUR&theme=react-dark)
+[![Certificates](https://img.shields.io/badge/My-Certificates-blue?style=flat-square)](https://github.com/YourUsername/Certificates)
+
 
 
 
