@@ -13,8 +13,8 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ## 📊 Mes statistiques GitHub :
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yassineelmiri&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yassineelmiri&layout=compact&theme=radical)
+![GitHub Stats]([https://github-readme-stats.vercel.app/api?username=yassineelmiri&show_icons=true&theme=radical](https://github.com/MohamedMoustir))
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedmoustir&layout=compact&theme=radical)
 
 ## 🔥 Activité récente :
 [![GitHub Streak](https://streak-stats.demolab.com?user=yassineelmiri&theme=radical)](https://git.io/streak-stats)
