@@ -1,13 +1,6 @@
 # Bonjour 👋, Je suis MOHAMED MOUSTIR
 
 ## 🌐 Connectez-vous avec moi :
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/username)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/username)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/username)
-
-# Bonjour 👋, Je suis MOHAMED MOUSTIR
-
-## 🌐 Connectez-vous avec moi :
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MohamedMoustir)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/MohamedMoustir)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/MohamedMoustir)
@@ -22,9 +15,3 @@
 
 ## 🔥 Activité récente :
 [![GitHub Streak](https://streak-stats.demolab.com?user=MohamedMoustir&theme=radical)](https://git.io/streak-stats)
-
-[![Certificates]([https://img.shields.io/badge/My-Certificates-blue?style=flat-square)](https://github.com/YourUsername/Certificates](https://github.com/MohamedMoustir/My-Certifications/blob/main/README.md))
-
-
-
-
